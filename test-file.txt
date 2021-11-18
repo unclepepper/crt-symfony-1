@@ -2,3 +2,4 @@
 # The second change in the develop branch
 # Change test-file in the develop branch
 # New feature for the test-file
+# Another new feature for the test-file
