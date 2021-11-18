@@ -4,4 +4,9 @@
 # Change test-file
 # Change test-file to fix bug
 # Change test-file to fix bug
+# The second change in the develop branch
+# Change test-file in the develop branch
+# New feature for the test-file
+# Another new feature for the test-file
+# The develop branch is done
 
