@@ -1,2 +1,7 @@
 # The first change in the main branch
 # The second shange in the main branch
+# The first change in the main branch (correct)
+# Change test-file
+# Change test-file to fix bug
+# Change test-file to fix bug
+
